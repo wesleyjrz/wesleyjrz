@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wesleyjrz.
 - 👀 I’m interested in books, music, languages, art, games and programming.
-- 🌱 I’m currently learning JavaScript to became a Web designer and Front end developer.
+- 🌱 I’m currently learning JavaScript to became a Web Designer and Front-End developer.
 - 💞️ I’m looking to collaborate on games, websites, community open-source projects, etc.
 - 📫 You can reach me on Telegram @wesleyjrz or write mail to me (wesleyjr2002@gmail.com || wesleyjr2002@outlook.com).
