@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wesleyjrz.
-- 👀 I’m interested in books, music, languages, art, games and programming.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate in games, websites, community open-source projects, etc.
-- 📫 You can reach me on Telegram @wesleyjrz or write mail to me wesleyjr2002@gmail.com.
+## :shipit: Hello my fellow, I’m Wesley Jr.
+- 👀 I’m interested in anime, manga, games, RPG, music and coffee!
+- :octocat: I’m currently learning C and Rust.
+- :godmode: I’m looking to collaborate in games, operating systems, community open-source projects, etc.
+- 📫 You can reach me on [Telegram](https://t.me/wesleyjrz) or write mail to me <wesleyjr2002@gmail.com>.
