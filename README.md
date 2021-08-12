@@ -31,7 +31,7 @@ fn main() {
 <br>
 <br>
 
-![Image of Emilia-tan](https://steamuserimages-a.akamaihd.net/ugc/932686135601875905/8223D0EF6471C6F813C348CFB5C072132546AE1F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<img align="center" alt="Emilia-tan" width="350px" src="https://steamuserimages-a.akamaihd.net/ugc/932686135601875905/8223D0EF6471C6F813C348CFB5C072132546AE1F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 > “Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
 \- [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
