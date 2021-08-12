@@ -14,6 +14,7 @@ fn main() {
 
 ### Contact me:
 [<img align="left" alt="Email" width="30px" src="gmail.png">](mailto:wesleyjr2002@gmail.com)
+[<img align="left" alt="Facebook" width="32px" src="facebook.png">](https://www.facebook.com/wesleyjrz)
 [<img align="left" alt="Discord" width="30px" src="discord.png">](https://discordapp.com/users/860287315866812436)
 [<img align="left" alt="Telegram" width="32px" src="telegram.png">](https://t.me/wesleyjrz)
 <br>
