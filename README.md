@@ -13,9 +13,20 @@ fn main() {
 - 💻 You can check my **Computer Science Roadmap** progress [here](https://github.com/wesleyjrz/cs-roadmap).
 
 ### Contact me:
-[<img align="left" alt="Email" width="32px" src="gmail.png">](mailto:wesleyjr2002@gmail.com)
-[<img align="left" alt="Discord" width="32px" src="discord.png">](https://discordapp.com/users/860287315866812436)
-[<img align="left" alt="Telegram" width="34px" src="telegram.png">](https://t.me/wesleyjrz)
+[<img align="left" alt="Email" width="30px" src="gmail.png">](mailto:wesleyjr2002@gmail.com)
+[<img align="left" alt="Discord" width="30px" src="discord.png">](https://discordapp.com/users/860287315866812436)
+[<img align="left" alt="Telegram" width="32px" src="telegram.png">](https://t.me/wesleyjrz)
+<br>
+<br>
+
+### Languages and Tools:
+[<img align="left" alt="Atom" width="34px" src="atom.svg">](https://atom.io)
+[<img align="left" alt="Vim" width="32px" src="vim.svg">](https://www.vim.org)
+[<img align="left" alt="HTML" width="32px" src="html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS" width="32px" src="css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Sass" width="32px" src="sass.svg">](https://sass-lang.com)
+[<img align="left" alt="JavaScript" width="30px" src="javascript.svg">](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[<img align="left" alt="C" width="32px" src="c.svg">](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Data-Types)
 <br>
 <br>
 
