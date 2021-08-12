@@ -7,19 +7,21 @@ fn main() {
 ```
 
 - 💕 I’m interested in anime, manga, games, RPG, music and coffee!
-- 📘 I’m currently learning C, JavaScript and NodeJs.
-- 🐙 I’m looking to collaborate in games, operating systems, community open-source projects, etc.
-- 💬 You can reach me on [Telegram](telegram), [Discord](discord) or [write mail](email) to me.
+- 🧑‍💼 I'm currently unemployed.
+- 📖 I’m currently learning C, JavaScript and Node.js.
+- ⚒️ I’m looking to collaborate in games, operating systems, community open-source projects, etc.
 - 💻 You can check my **Computer Science Roadmap** progress [here](https://github.com/wesleyjrz/cs-roadmap).
+
+### Contact me:
+[<img align="left" alt="Email" width="32px" src="gmail.png">](mailto:wesleyjr2002@gmail.com)
+[<img align="left" alt="Discord" width="32px" src="discord.png">](https://discordapp.com/users/860287315866812436)
+[<img align="left" alt="Telegram" width="34px" src="telegram.png">](https://t.me/wesleyjrz)
+<br>
+<br>
 
 ![Image of Emilia-tan](https://steamuserimages-a.akamaihd.net/ugc/932686135601875905/8223D0EF6471C6F813C348CFB5C072132546AE1F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 > “Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
 \- [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-<br/>
-<br/>
-
-[telegram]: https://t.me/wesleyjrz
-[discord]: https://discordapp.com/users/860287315866812436
-[email]: mailto:wesleyjr2002@gmail.com
+<br>
