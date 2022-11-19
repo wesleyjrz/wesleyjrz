@@ -81,8 +81,8 @@ Linus Torvalds.
 ### :goberserk: I'm still learning
 
 <div>
-  <!-- <img alt="c++" src="https://img.shields.io/badge/-C++-none?style=flat&color=00599C&logo=c%2B%2B&logoColor=white%22" /> -->
-  <img alt="python 3" src="https://img.shields.io/badge/-Python%203-none?style=flat&color=3776AB&logo=python&logoColor=white" />
+  <img alt="c++" src="https://img.shields.io/badge/-C++-none?style=flat&color=00599C&logo=c%2B%2B&logoColor=white%22" />
+  <!-- <img alt="python 3" src="https://img.shields.io/badge/-Python%203-none?style=flat&color=3776AB&logo=python&logoColor=white" /> -->
   <!-- <img alt="julia" src="https://img.shields.io/badge/-Julia-none?style=flat&color=9558B2&logo=julia&logoColor=white" /> -->
   <!-- <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-none?style=flat&color=F7DF1E&logo=javascript&logoColor=black" /> -->
 </div>
