@@ -29,8 +29,8 @@
 ### :phone: Contact
 
 <div>
-  <a href="mailto:wesleyjr2002@gmail.com">
-    <img alt="e-mail" src="https://img.shields.io/badge/-wesleyjr2002%40gmail.com-none?color=EA4335&logo=gmail&logoColor=white" />
+  <a href="mailto:dev@wesleyjrz.com">
+    <img alt="e-mail" src="https://img.shields.io/badge/-dev%40wesleyjrz.com-none?color=EA4335&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/wesleyjrz">
     <img alt="telegram" src="https://img.shields.io/badge/-%40wesleyjrz-none?color=26A5E4&logo=telegram&logoColor=white" />
