@@ -68,6 +68,7 @@ Linus Torvalds.
 <div>
   <img alt="c" src="https://img.shields.io/badge/-C-none?style=flat&color=A8B9CC&logo=c&logoColor=black" />
   <img alt="lua" src="https://img.shields.io/badge/-Lua-none?style=flat&color=2C2D72&logo=lua&logoColor=white" />
+  <img alt="python 3" src="https://img.shields.io/badge/-Python%203-none?style=flat&color=3776AB&logo=python&logoColor=white" />
 </div>
 
 ### :suspect: I'm comfortable with
@@ -82,7 +83,8 @@ Linus Torvalds.
 
 <div>
   <img alt="c++" src="https://img.shields.io/badge/-C++-none?style=flat&color=00599C&logo=c%2B%2B&logoColor=white%22" />
-  <!-- <img alt="python 3" src="https://img.shields.io/badge/-Python%203-none?style=flat&color=3776AB&logo=python&logoColor=white" /> -->
-  <!-- <img alt="julia" src="https://img.shields.io/badge/-Julia-none?style=flat&color=9558B2&logo=julia&logoColor=white" /> -->
-  <!-- <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-none?style=flat&color=F7DF1E&logo=javascript&logoColor=black" /> -->
 </div>
+
+<!-- LANGUAGES THAT I MIGHT LEARN/USE SOMEDAY -->
+<!-- <img alt="julia" src="https://img.shields.io/badge/-Julia-none?style=flat&color=9558B2&logo=julia&logoColor=white" /> -->
+<!-- <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-none?style=flat&color=F7DF1E&logo=javascript&logoColor=black" /> -->
