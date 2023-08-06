@@ -1,4 +1,4 @@
-# Hello, Привет, 你好, I'm Wesley!
+[![Hello, I'm Wesley!](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&vCenter=true&width=435&lines=%24+echo+%22Hello%2C+I'm+Wesley!%22)](https://git.io/typing-svg)
 
 ![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=wesleyjrz&show_icons=true&theme=github_dark)
 
