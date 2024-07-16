@@ -4,9 +4,8 @@
 
 ## About me
 
-- :man_technologist: I want to become a computer engineer
 - :desktop_computer: Currently I do not have a job in programming
-- :man_student: I'm studying to pass the ITA (Brazil Aeronautics Institute of Technology) and SAT exams
+- :man_student: Studying Software Engineering
 
 ### :cupid: Interests
 
