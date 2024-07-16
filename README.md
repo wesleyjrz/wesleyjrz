@@ -67,8 +67,6 @@ Linus Torvalds.
 
 <div>
   <img alt="c" src="https://img.shields.io/badge/-C-none?style=flat&color=A8B9CC&logo=c&logoColor=black" />
-  <img alt="lua" src="https://img.shields.io/badge/-Lua-none?style=flat&color=2C2D72&logo=lua&logoColor=white" />
-  <img alt="python 3" src="https://img.shields.io/badge/-Python%203-none?style=flat&color=3776AB&logo=python&logoColor=white" />
 </div>
 
 ### :suspect: I'm comfortable with
