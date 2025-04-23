@@ -4,25 +4,21 @@
 
 ## About me
 
-- :desktop_computer: Currently I do not have a job in programming
-- :man_student: Studying Software Engineering
+- :desktop_computer: Currently not in a IT job.
+- :man_student: Software Engineering Student.
 
 ### :cupid: Interests
 
-- Computer science and engineering
-- Game development
+- Linux
+- Nix/NixOS
+- Free Software
 - Infosec
-- Mathematics
-- Physics
-- Chemistry
-- Neurobiology
+- Math
 - Linguistics
-- Politics
-- Economy
-- Prose writing
-- Retro games
+- Retro Games
+- Strategy Games
 - Chess
-- RPG
+- TTRPG
 - *And many more...*
 
 ### :phone: Contact
@@ -41,7 +37,7 @@
    -->
 </div>
 
-### :star: Other repositories
+### :star: Another code hosting websites
 
 <div>
   <a href="https://gitlab.com/wesleyjrz">
@@ -51,8 +47,8 @@
 
 ### :bowtie: Fun facts and curiosities
 
-- I'm kinda crazy about organisation, it's one of my hobbies to categorise, sort, clean up and create standards.
-- I'm an eclectic as you can see by my long interests list, I've also got a hobby of finding new hobbies lol.
+- I'm kinda crazy about organisation.
+- I'm an eclectic and I'm always finding new interests.
 
 > “Most of the good programmers do programming not because they expect to get
 paid or get adulation by the public, but because it is fun to program.” > \-
