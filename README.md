@@ -2,23 +2,27 @@
 
 ![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=wesleyjrz&show_icons=true&theme=github_dark)
 
+
+> “Most of the good programmers do programming not because they expect to get
+paid or get adulation by the public, but because it is fun to program.” > \-
+Linus Torvalds.
+
+---
+
 ## About me
 
 - :desktop_computer: Currently not in a IT job.
-- :man_student: Software Engineering Student.
+- :man_student: Studying software engineering.
 
 ### :cupid: Interests
 
-- Linux
-- Nix/NixOS
-- Free Software
-- Infosec
-- Math
-- Linguistics
-- Retro Games
-- Strategy Games
-- Chess
-- TTRPG
+- :penguin: Linux
+- :ox: Free Software
+- :snowflake: Nix
+- :speaking_head: Linguistics
+- :video_game: Video Games (Retro, Strategy, RPG, ...)
+- :chess_pawn: Chess
+- :mage_man: TTRPG
 - *And many more...*
 
 ### :phone: Contact
@@ -27,57 +31,29 @@
   <a href="mailto:dev@wesleyjrz.com">
     <img alt="e-mail" src="https://img.shields.io/badge/-dev%40wesleyjrz.com-none?color=EA4335&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/wesleyjrz">
-    <img alt="telegram" src="https://img.shields.io/badge/-%40wesleyjrz-none?color=26A5E4&logo=telegram&logoColor=white" />
-  </a>
-  <!--
-  <a href="https://discord.com/users/860287315866812436">
-    <img alt="discord" src="https://img.shields.io/badge/-nickname-none?color=5865F2&logo=discord&logoColor=white" />
-  </a>
-   -->
 </div>
-
-### :star: Another code hosting websites
-
-<div>
-  <a href="https://gitlab.com/wesleyjrz">
-    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-none?color=FC6D26&logo=gitlab&logoColor=white" />
-  </a>
-</div>
-
-### :bowtie: Fun facts and curiosities
-
-- I'm kinda crazy about organisation.
-- I'm an eclectic and I'm always finding new interests.
-
-> “Most of the good programmers do programming not because they expect to get
-paid or get adulation by the public, but because it is fun to program.” > \-
-Linus Torvalds.
 
 ## Languages
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyjrz&layout=compact&hide=makefile&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :godmode: Favourites (often used)
-
-<div>
-  <img alt="c" src="https://img.shields.io/badge/-C-none?style=flat&color=A8B9CC&logo=c&logoColor=black" />
-</div>
-
-### :suspect: I'm comfortable with
-
-<div>
-  <img alt="shell script" src="https://img.shields.io/badge/-Shell%20Script-none?style=flat&color=black&logo=gnu-bash&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-none?style=flat&color=E34F26&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-none?style=flat&color=1572B6&logo=css3&logoColor=white" />
-</div>
-
-### :goberserk: I'm still learning
+### :godmode: Favourites
 
 <div>
   <img alt="c++" src="https://img.shields.io/badge/-C++-none?style=flat&color=00599C&logo=c%2B%2B&logoColor=white%22" />
 </div>
 
-<!-- LANGUAGES THAT I MIGHT LEARN/USE SOMEDAY -->
-<!-- <img alt="julia" src="https://img.shields.io/badge/-Julia-none?style=flat&color=9558B2&logo=julia&logoColor=white" /> -->
+### :suspect: I'm comfortable with
+
+<div>
+  <img alt="c" src="https://img.shields.io/badge/-C-none?style=flat&color=A8B9CC&logo=c&logoColor=white" />
+</div>
+
+### :goberserk: I'm still learning
+
+<div>
+  <img alt="c#" src="https://img.shields.io/badge/-C%23-none?style=flat&color=512BD4&logo=dotnet&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-none?style=flat&color=F89820&logo=openjdk&logoColor=black" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-none?style=flat&color=3776AB&logo=python&logoColor=white" />
+</div>
+
+<!-- LANGUAGES THAT I MIGHT LEARN SOMEDAY -->
 <!-- <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-none?style=flat&color=F7DF1E&logo=javascript&logoColor=black" /> -->
