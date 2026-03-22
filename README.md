@@ -1,4 +1,4 @@
-[![Hello, I'm Wesley!](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=2500&color=00FF00&repeat=false&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+world!%22+%3C%3C+std%3A%3Aendl%3Dstd%3A%3Acout+%3C%3C+%22I'm+Wesley%22+%3C%3C+std%3A%3Aendl%3Dreturn+0;)](https://git.io/typing-svg)
+[![Hello, I'm Wesley!](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=2500&color=00FF00&repeat=false&width=440&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+world!%22+%3C%3C+std%3A%3Aendl;%3Dstd%3A%3Acout+%3C%3C+%22I'm+Wesley%22+%3C%3C+std%3A%3Aendl;%3Dreturn+0;)](https://git.io/typing-svg)
 
 > “Most of the good programmers do programming not because they expect to get
 paid or get adulation by the public, but because it is fun to program.” > \-
